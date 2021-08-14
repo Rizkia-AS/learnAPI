@@ -28,10 +28,4 @@ class LearnApi {
 
 }
 
-const tes = async () => {
-    const endpoint = await LearnApi.getEndpoint();
-    const quota = await LearnApi.getQuota(endpoint);
-    const Expiration = await LearnApi.getExpiration(endpoint);
-    
-    console.log(`${endpoint}--${quota}--${Expiration}`)
-}
+module.exports.LearnApi = LearnApi
