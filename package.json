@@ -1,0 +1,22 @@
+{
+  "name": "unofficiallearnapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rizkia-AS/learnAPI.git"
+  },
+  "keywords": [
+    "learnapi"
+  ],
+  "author": "Rizkia-AS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rizkia-AS/learnAPI/issues"
+  },
+  "homepage": "https://github.com/Rizkia-AS/learnAPI#readme"
+}
